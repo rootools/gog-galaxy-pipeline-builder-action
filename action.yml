@@ -1,0 +1,6 @@
+name: "GOG Galaxy Pipeline Builder"
+author: "Anton Bravin"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
